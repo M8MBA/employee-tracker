@@ -49,8 +49,7 @@
   ### Query the table to retrieve all the data by typing the following command:
   ### SELECT * FROM nameOfTable;
   ### Invoke the app by running > node server.js in the command line
-  ### answer the questions and once you are done a file named generatedREADME.md will be available in the utils folder
-  ### Walkthrough Video - https://youtu.be/EVkQgzAXPrQ
+  ### Walkthrough Video - https://youtu.be/QnB7sjItOoA
 
   ## Contributors
   ### inquirer https://www.npmjs.com/package/inquirer
